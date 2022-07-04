@@ -1,0 +1,43 @@
+#line{
+    background-color: #005889;
+    height: 20px;
+    width: 100%;
+}
+.color{
+    color: #005889;
+}
+.non-bullet{
+    list-style-type: none;
+}
+.bullet{
+    list-style-type: disc;
+}
+*{
+    font-family: Roboto;
+}
+#name{
+    margin-left: 25px; 
+    margin-bottom: -5px;
+}
+#content{
+    margin-left: 30px;   
+}
+.bottom5{
+    margin-bottom:5px;
+}
+.bottom-10{
+    margin-bottom:-10px;
+}
+.paragraph{
+    margin-left:40px; 
+    margin-top:0;
+}
+#email{
+    margin-top:-10px;
+}
+#columns{
+    display: flex;
+}
+.column{
+    width: 30%;
+}
